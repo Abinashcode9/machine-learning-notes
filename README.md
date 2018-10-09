@@ -36,3 +36,5 @@ Machine Learning is an application of AI. The hierarchy is:
 * https://github.com/awesomedata/awesome-public-datasets
 
 ## Sample Projects & Great Works
+
+##It is of great help for beginners to get enough resource study materials and with such good walkthrough 
